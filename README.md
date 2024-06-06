@@ -24,11 +24,11 @@
 
 ###### **安装步骤**
 
-1. gitlab 地址：[https://gitlab.wiskind.cn/gits/gp/logihub.git](https://gitlab.wiskind.cn/gits/gp/logihub.git)
+1. gitlab 地址：[https://github.com/liumaowen/logihub.git](https://github.com/liumaowen/logihub.git)
 2. Clone
 
 ```sh
-git clone https://gitlab.wiskind.cn/gits/gp/logihub.git
+git clone https://github.com/liumaowen/logihub.git
 ```
 3. 安装依赖
 ```sh
